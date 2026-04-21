@@ -1,4 +1,4 @@
-# Prospector Scanner - ZMK Status Display Device
+# Prospector Scanner - ZMK Status Display Device 
 
 > **v2.1.0 (January 2026) - Zephyr 4.x & Universal Compatibility**
 >
