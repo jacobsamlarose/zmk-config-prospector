@@ -1,4 +1,4 @@
-# Prospector Scanner - ZMK Status Display Device
+# Prospector Scanner - ZMK Status Display Device 
 
 > **v2.2b (February 2026) - Beta Release**
 >
